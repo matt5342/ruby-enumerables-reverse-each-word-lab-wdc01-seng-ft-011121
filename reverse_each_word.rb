@@ -1,7 +1,7 @@
 def reverse_each_word (string)
   
-  
-  string.each  
+  array = %w(string)
+  array.each |element.reverse|   
 
   
 end  
