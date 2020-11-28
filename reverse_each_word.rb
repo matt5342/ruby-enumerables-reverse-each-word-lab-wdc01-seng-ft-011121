@@ -1,4 +1,4 @@
-def reverse_each_word ("string")
+def reverse_each_word (string)
   new_array = []
   array = %w(string)
   array.each do |element|
